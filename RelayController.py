@@ -4,6 +4,10 @@ import serial
 import serial.tools.list_ports
 import serial.tools.list_ports_common
 
+"""
+Relay Object
+"""
+
 
 class Relay:
     def __init__(self, device_hwid: str,
