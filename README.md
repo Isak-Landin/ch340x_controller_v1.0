@@ -3,7 +3,7 @@
  Relay type: ch340T.
  OS-system: Windows 10, Windows 11.
  
- ![Image of a ch340T model]([http://url/to/img.png](https://github.com/Isak-Landin/ch340x_controller_v1.0/blob/main/ch340T.jpg))
+ ![Image of a ch340T model](https://github.com/Isak-Landin/ch340x_controller_v1.0/blob/main/ch340T.jpg)
  
  # Instructions
  Running with python:
