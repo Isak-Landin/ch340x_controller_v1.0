@@ -1,7 +1,7 @@
 from RelayController import Relay
 
 """
-THIS IS A TEST SCRIPT!
+THIS IS A TEST SCRIPT! Example only!
 Use this as an example of how to active your relay
 """
 
