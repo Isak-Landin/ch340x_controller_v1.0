@@ -9,7 +9,7 @@
  Running with python:
  install requirements.txt
  
- Create instance of RelayController.Relay
+ **Create instance of RelayController.Relay**
 ```
 hwid: str = '1A86:7523'
 ch340T: Relay = Relay(device_hwid=hwid)
