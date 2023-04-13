@@ -50,7 +50,6 @@ class Relay:
                 performed = True
             except Exception:
                 print('Device was set up but error occurred')
-                print(Exception)
         else:
             print('No device')
 
@@ -64,7 +63,6 @@ class Relay:
                 performed = True
             except Exception:
                 print('Device was set up but error occurred')
-                print(Exception)
         else:
             print('No device')
 
