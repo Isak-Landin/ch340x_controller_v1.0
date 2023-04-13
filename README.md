@@ -1,5 +1,7 @@
 # ch340x_controller_v1.0
- This module is tested on windows 10 and windows 11.
+ **This module is tested on:**
+ Relay type: ch340T
+ OS-system: Windows 10, Windows 11
  
  # Instructions
  Running with python:
