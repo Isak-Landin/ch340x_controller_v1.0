@@ -24,3 +24,7 @@ for port in possible_relay_ports:
 ```
 
 > USB VID:PID=1A86:7523 SER= LOCATION=1-5
+
+We take the hwid from the output, *1A86:7523*
+
+Enjoy.
