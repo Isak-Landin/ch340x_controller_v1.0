@@ -1,4 +1,4 @@
-# Simple ch340x USB Relay Controller v1.0
+# Simple ch340x USB Relay Controller (1x) v1.0
  **This module is tested on:**
  Relay type: ch340T.
  OS-system: Windows 10, Windows 11.
